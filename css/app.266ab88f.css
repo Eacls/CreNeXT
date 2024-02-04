@@ -132,7 +132,7 @@ table {
   font-weight:400;
   src:local("Roboto"),
   local("Roboto-Regular"),
-  url(https://recreate.games/fonts/Roboto-Regular.1bef46b5.woff) format("woff")
+  url(.../fonts/Roboto-Regular.1bef46b5.woff) format("woff")
 }
 @font-face {
   font-family:Roboto Medium;
@@ -170,7 +170,7 @@ table {
   font-family:Dosis Light;
   font-style:normal;
   font-weight:300;
-  src:url(https://recreate.games/fonts/Dosis-ExtraLight.4862111c.woff) format("woff")
+  src:url(.../fonts/Dosis-ExtraLight.4862111c.woff) format("woff")
 }
 body,
 html {
