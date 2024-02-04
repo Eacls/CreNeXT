@@ -127,14 +127,6 @@ table {
   border-spacing:0
 }
 @font-face {
-  font-family:Roboto;
-  font-style:normal;
-  font-weight:400;
-  src:local("Roboto"),
-  local("Roboto-Regular"),
-  url(.../fonts/Roboto-Regular.1bef46b5.woff) format("woff")
-}
-@font-face {
   font-family:Roboto Medium;
   font-style:normal;
   font-weight:500;
@@ -165,12 +157,6 @@ table {
   src:local("Dosis Regular"),
   local("Dosis-Regular"),
   url(../fonts/Dosis-Regular.557739d4.woff) format("woff")
-}
-@font-face {
-  font-family:Dosis Light;
-  font-style:normal;
-  font-weight:300;
-  src:url(.../fonts/Dosis-ExtraLight.4862111c.woff) format("woff")
 }
 body,
 html {
