@@ -573,11 +573,11 @@ main {
   background:#f2f2f2
 }
 .work-env .content {
-  display:-moz-flex;
-  display:-ms-flex;
-  display:flex;
-  padding-top:15%;
-  padding-bottom:15%
+  display: -moz-flex;
+  display: -ms-flex;
+  display: flex;
+  padding-top: 8%;
+  padding-bottom: 9%;
 }
 .env-con {
   overflow:hidden
@@ -1316,3 +1316,15 @@ footer {
   }
 }
 
+.nav-right {
+  float: right;
+  margin-left: 20px;
+  opacity: .75;
+  display: none;
+}
+
+.logo-wrap {
+  overflow: hidden;
+  float: left;
+  display: none;
+}
