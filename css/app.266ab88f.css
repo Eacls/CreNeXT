@@ -132,7 +132,7 @@ table {
   font-weight:400;
   src:local("Roboto"),
   local("Roboto-Regular"),
-  url(../fonts/Roboto-Regular.1bef46b5.woff) format("woff")
+  url(https://recreate.games/fonts/Roboto-Regular.1bef46b5.woff) format("woff")
 }
 @font-face {
   font-family:Roboto Medium;
@@ -170,7 +170,7 @@ table {
   font-family:Dosis Light;
   font-style:normal;
   font-weight:300;
-  src:url(../fonts/Dosis-ExtraLight.4862111c.woff) format("woff")
+  src:url(https://recreate.games/fonts/Dosis-ExtraLight.4862111c.woff) format("woff")
 }
 body,
 html {
@@ -425,7 +425,7 @@ main {
 .intro-zh-bg {
   top:auto;
   bottom:0;
-  background:url(../img/background.jpg) 0 0 no-repeat scroll;
+  background:url(https://preview.cloud.189.cn/image/imageAction?param=AA1ABDCCB3013C772C889CB1345434680ADDF0C5A968C542FCA2F6ED5930F378C78B7C06893CE635C1C69B8B3043316F5BD8C93032311AA2A7644AAEDBF8405A7434351237B4B9FEF6A290499CF5FE42161521941492E16722CE0A318BD314E6847160CD6C2AA805626177644645B085) 0 0 no-repeat scroll;
   background-size:cover
 }
 .left-con {
@@ -446,7 +446,7 @@ main {
 }
 .intro-con .arrow-right {
   top:21px;
-  background-image:url(../img/down.dc6588d4.svg)
+  background-image:url(https://recreate.games/img/down.dc6588d4.svg)
 }
 .about {
   position:relative
@@ -1026,7 +1026,7 @@ footer {
   margin-bottom:0
 }
 .career-top .arrow-right {
-  background-image:url(../img/down.dc6588d4.svg)
+  background-image:url(https://recreate.games/img/down.dc6588d4.svg)
 }
 .career-btn-wrapper {
   display:inline-block;
