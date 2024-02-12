@@ -1327,27 +1327,27 @@ footer {
   padding-bottom: 9%;
 }
 .env-con {
-  overflow:hidden
+  overflow: hidden
 }
 .qa-txt {
   flex:1 1 auto;
-  margin-right:6px
+  margin-right: 6px
 }
 .qa-img {
-  overflow:hidden;
+  overflow: hidden;
   flex:1 1 auto
 }
 .qa-item {
   float:left;
-  width:49%;
-  margin-left:2%;
-  margin-bottom:2%
+  width: 49%;
+  margin-left: 2%;
+  margin-bottom: 2%
 }
 .qa-item:first-child,
 .qa:nth-child(3) {
   margin-left:0
 }
 .qa-item img {
-  width:100%;
-  vertical-align:top
+  width: 100%;
+  vertical-align: top
 }
