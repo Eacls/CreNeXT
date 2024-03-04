@@ -422,7 +422,7 @@ main {
 .right-con {
   flex: 1 1 auto;
   padding-top: 75px;
-  padding-left: 150px;
+  padding-left: 0px;
 }
 .contact-con .btn-black,
 .intro-con .btn-black {
