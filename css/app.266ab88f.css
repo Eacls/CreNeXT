@@ -557,7 +557,7 @@ main {
   background:#0a0a0a
 }
 .work-env {
-  background:#f2f2f2
+  background: #f7f7f7;
 }
 .work-env .content {
   display: -moz-flex;
@@ -1317,7 +1317,7 @@ footer {
 }
 
 .qa {
-  background: #f7f7f7
+  background: #ffffff;
 }
 .qa .content {
   display: -moz-flex;
